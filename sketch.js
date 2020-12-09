@@ -106,7 +106,7 @@ var deformation;
 
 function setup() {
   createCanvas(windowWidth,windowHeight-150);
-  speed = random(40,70);
+  speed = random(10,70);
   weight = random(1500,3500);
   
   wall = createSprite(windowWidth-200,windowHeight/2.6,10,200);
