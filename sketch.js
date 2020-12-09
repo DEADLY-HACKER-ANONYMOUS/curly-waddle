@@ -133,7 +133,7 @@ wall.shapeColor="white"
   deformation=(Math.round(weight*speed*speed)/45000)
   }
 
-  /*if(keyDown("space")){
+ /* if(keyDown("space")){
     newcar();
   }*/
 
