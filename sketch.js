@@ -123,8 +123,8 @@ function draw() {
   background(0,0,0)
 wall.shapeColor="white"
   function newcar(){
-  speed = random(25,75);
-  weight = random(1000,3000);
+  speed = random(15,80);
+  weight = random(900,3200);
   car.x=90;
   car.y=wall.y; 
   wall.x=windowWidth-200;
